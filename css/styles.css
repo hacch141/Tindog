@@ -54,3 +54,36 @@ p {
     font-size: 1.2rem;
     font-family: "Montserrat";
 }
+
+/* Download buttons */
+.download-button {
+    margin: 5% 3% 5% 0%;
+}
+
+/* Image-title */
+.Image-title {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem ;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
