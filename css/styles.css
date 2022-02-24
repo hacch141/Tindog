@@ -117,3 +117,12 @@ p {
     margin: 20px 20px 50px;
 }
 
+/* pricing section  */
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
